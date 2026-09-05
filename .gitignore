@@ -1,0 +1,6 @@
+*.RData
+*.rds
+*.rda
+.Rhistory
+results/*.csv
+!.gitkeep
